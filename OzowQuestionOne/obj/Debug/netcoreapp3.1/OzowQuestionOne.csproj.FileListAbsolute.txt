@@ -1,0 +1,12 @@
+C:\Users\ABKH171\source\repos\OzowQuestionOne\bin\Debug\netcoreapp3.1\OzowQuestionOne.exe
+C:\Users\ABKH171\source\repos\OzowQuestionOne\bin\Debug\netcoreapp3.1\OzowQuestionOne.deps.json
+C:\Users\ABKH171\source\repos\OzowQuestionOne\bin\Debug\netcoreapp3.1\OzowQuestionOne.runtimeconfig.json
+C:\Users\ABKH171\source\repos\OzowQuestionOne\bin\Debug\netcoreapp3.1\OzowQuestionOne.runtimeconfig.dev.json
+C:\Users\ABKH171\source\repos\OzowQuestionOne\bin\Debug\netcoreapp3.1\OzowQuestionOne.dll
+C:\Users\ABKH171\source\repos\OzowQuestionOne\bin\Debug\netcoreapp3.1\OzowQuestionOne.pdb
+C:\Users\ABKH171\source\repos\OzowQuestionOne\obj\Debug\netcoreapp3.1\OzowQuestionOne.AssemblyInfoInputs.cache
+C:\Users\ABKH171\source\repos\OzowQuestionOne\obj\Debug\netcoreapp3.1\OzowQuestionOne.AssemblyInfo.cs
+C:\Users\ABKH171\source\repos\OzowQuestionOne\obj\Debug\netcoreapp3.1\OzowQuestionOne.csproj.CoreCompileInputs.cache
+C:\Users\ABKH171\source\repos\OzowQuestionOne\obj\Debug\netcoreapp3.1\OzowQuestionOne.dll
+C:\Users\ABKH171\source\repos\OzowQuestionOne\obj\Debug\netcoreapp3.1\OzowQuestionOne.pdb
+C:\Users\ABKH171\source\repos\OzowQuestionOne\obj\Debug\netcoreapp3.1\OzowQuestionOne.genruntimeconfig.cache
